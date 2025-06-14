@@ -1,2 +1,2 @@
-print("HEllo World ")
+print("Hello World ")
 print("Naman Sharma S")
